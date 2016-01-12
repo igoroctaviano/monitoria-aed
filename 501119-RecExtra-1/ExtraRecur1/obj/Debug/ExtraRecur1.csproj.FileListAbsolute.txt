@@ -1,0 +1,27 @@
+C:\Users\Igor\Desktop\2° Semestre\LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA POR OBJETOS - 2385.1.01 (Prática)\Exercícios\Resolução\ExtraRecur1\ExtraRecur1\bin\Debug\ExtraRecur1.exe.config
+C:\Users\Igor\Desktop\2° Semestre\LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA POR OBJETOS - 2385.1.01 (Prática)\Exercícios\Resolução\ExtraRecur1\ExtraRecur1\obj\Debug\ExtraRecur1.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\2° Semestre\LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA POR OBJETOS - 2385.1.01 (Prática)\Exercícios\Resolução\ExtraRecur1\ExtraRecur1\bin\Debug\ExtraRecur1.exe
+C:\Users\Igor\Desktop\2° Semestre\LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA POR OBJETOS - 2385.1.01 (Prática)\Exercícios\Resolução\ExtraRecur1\ExtraRecur1\bin\Debug\ExtraRecur1.pdb
+C:\Users\Igor\Desktop\2° Semestre\LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA POR OBJETOS - 2385.1.01 (Prática)\Exercícios\Resolução\ExtraRecur1\ExtraRecur1\obj\Debug\ExtraRecur1.exe
+C:\Users\Igor\Desktop\2° Semestre\LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA POR OBJETOS - 2385.1.01 (Prática)\Exercícios\Resolução\ExtraRecur1\ExtraRecur1\obj\Debug\ExtraRecur1.pdb
+H:\Igor PUC Minas\3° Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-Extra-1\ExtraRecur1\bin\Debug\ExtraRecur1.exe.config
+H:\Igor PUC Minas\3° Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-Extra-1\ExtraRecur1\obj\Debug\ExtraRecur1.exe
+H:\Igor PUC Minas\3° Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-Extra-1\ExtraRecur1\obj\Debug\ExtraRecur1.pdb
+H:\Igor PUC Minas\3° Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-Extra-1\ExtraRecur1\bin\Debug\ExtraRecur1.exe
+H:\Igor PUC Minas\3° Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-Extra-1\ExtraRecur1\bin\Debug\ExtraRecur1.pdb
+H:\Igor PUC Minas\3° Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-Extra-1\ExtraRecur1\obj\Debug\ExtraRecur1.csprojResolveAssemblyReference.cache
+H:\Igor PUC Minas\3° Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-RecExtra-1\ExtraRecur1\bin\Debug\ExtraRecur1.exe.config
+H:\Igor PUC Minas\3° Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-RecExtra-1\ExtraRecur1\obj\Debug\ExtraRecur1.exe
+H:\Igor PUC Minas\3° Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-RecExtra-1\ExtraRecur1\obj\Debug\ExtraRecur1.pdb
+H:\Igor PUC Minas\3° Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-RecExtra-1\ExtraRecur1\bin\Debug\ExtraRecur1.exe
+H:\Igor PUC Minas\3° Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-RecExtra-1\ExtraRecur1\bin\Debug\ExtraRecur1.pdb
+H:\Igor PUC Minas\3° Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-RecExtra-1\ExtraRecur1\obj\Debug\ExtraRecur1.csprojResolveAssemblyReference.cache
+D:\I.O.R.R-PUC-Minas\3-Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-RecExtra-1\ExtraRecur1\bin\Debug\ExtraRecur1.exe.config
+D:\I.O.R.R-PUC-Minas\3-Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-RecExtra-1\ExtraRecur1\obj\Debug\ExtraRecur1.exe
+D:\I.O.R.R-PUC-Minas\3-Semestre\LABORATÓRIO DE ALGORITMOS E ESTRUTURAS DE DADOS - 8152.1.02 (Prática)\Exercicios\Codigos\501119-RecExtra-1\ExtraRecur1\obj\Debug\ExtraRecur1.pdb
+C:\Users\Igor Octaviano\Documents\GitHub\aed\501119-RecExtra-1\ExtraRecur1\bin\Debug\Recursividade.exe.config
+C:\Users\Igor Octaviano\Documents\GitHub\aed\501119-RecExtra-1\ExtraRecur1\bin\Debug\Recursividade.exe
+C:\Users\Igor Octaviano\Documents\GitHub\aed\501119-RecExtra-1\ExtraRecur1\bin\Debug\Recursividade.pdb
+C:\Users\Igor Octaviano\Documents\GitHub\aed\501119-RecExtra-1\ExtraRecur1\obj\Debug\ExtraRecur1.csprojResolveAssemblyReference.cache
+C:\Users\Igor Octaviano\Documents\GitHub\aed\501119-RecExtra-1\ExtraRecur1\obj\Debug\Recursividade.exe
+C:\Users\Igor Octaviano\Documents\GitHub\aed\501119-RecExtra-1\ExtraRecur1\obj\Debug\Recursividade.pdb
