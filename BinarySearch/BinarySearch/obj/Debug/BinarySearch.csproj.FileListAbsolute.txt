@@ -1,0 +1,9 @@
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearch\bin\Debug\BinarySearch.pdb
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearch\obj\Debug\BinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb
+C:\Users\Igor Octaviano\Documents\GitHub\aed\BinarySearch\BinarySearch\bin\Debug\BinarySearch.exe.config
+C:\Users\Igor Octaviano\Documents\GitHub\aed\BinarySearch\BinarySearch\obj\Debug\BinarySearch.exe
+C:\Users\Igor Octaviano\Documents\GitHub\aed\BinarySearch\BinarySearch\obj\Debug\BinarySearch.pdb

@@ -1,0 +1,9 @@
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearchTests\bin\Debug\BinarySearchTests.dll
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearchTests\bin\Debug\BinarySearchTests.pdb
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearchTests\bin\Debug\BinarySearch.exe
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearchTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearchTests\bin\Debug\BinarySearch.pdb
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearchTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearchTests\obj\Debug\BinarySearchTests.csprojResolveAssemblyReference.cache
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearchTests\obj\Debug\BinarySearchTests.dll
+C:\Users\Igor Octaviano\Desktop\BinarySearch\BinarySearchTests\obj\Debug\BinarySearchTests.pdb
