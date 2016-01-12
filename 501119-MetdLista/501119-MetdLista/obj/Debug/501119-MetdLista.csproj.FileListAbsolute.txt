@@ -1,0 +1,21 @@
+C:\Users\Igor\Desktop\2° Semestre\LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA POR OBJETOS - 2385.1.01 (Prática)\Exercícios\Resolução\501119-MetdLista\501119-MetdLista\bin\Debug\501119-MetdLista.exe.config
+C:\Users\Igor\Desktop\2° Semestre\LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA POR OBJETOS - 2385.1.01 (Prática)\Exercícios\Resolução\501119-MetdLista\501119-MetdLista\obj\Debug\501119-MetdLista.csprojResolveAssemblyReference.cache
+C:\Users\Igor\Desktop\2° Semestre\LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA POR OBJETOS - 2385.1.01 (Prática)\Exercícios\Resolução\501119-MetdLista\501119-MetdLista\bin\Debug\501119-MetdLista.exe
+C:\Users\Igor\Desktop\2° Semestre\LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA POR OBJETOS - 2385.1.01 (Prática)\Exercícios\Resolução\501119-MetdLista\501119-MetdLista\bin\Debug\501119-MetdLista.pdb
+C:\Users\Igor\Desktop\2° Semestre\LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA POR OBJETOS - 2385.1.01 (Prática)\Exercícios\Resolução\501119-MetdLista\501119-MetdLista\obj\Debug\501119-MetdLista.exe
+C:\Users\Igor\Desktop\2° Semestre\LABORATÓRIO DE PROGRAMAÇÃO ORIENTADA POR OBJETOS - 2385.1.01 (Prática)\Exercícios\Resolução\501119-MetdLista\501119-MetdLista\obj\Debug\501119-MetdLista.pdb
+H:\Igor PUC Minas\3° Semestre\ALGORITMOS E ESTRUTURAS DE DADOS - 8150.1.00 (Teórica)\Exercicios\Codigos\501119-MetdLista\501119-MetdLista\bin\Debug\501119-MetdLista.exe.config
+H:\Igor PUC Minas\3° Semestre\ALGORITMOS E ESTRUTURAS DE DADOS - 8150.1.00 (Teórica)\Exercicios\Codigos\501119-MetdLista\501119-MetdLista\obj\Debug\501119-MetdLista.exe
+H:\Igor PUC Minas\3° Semestre\ALGORITMOS E ESTRUTURAS DE DADOS - 8150.1.00 (Teórica)\Exercicios\Codigos\501119-MetdLista\501119-MetdLista\obj\Debug\501119-MetdLista.pdb
+H:\Igor PUC Minas\3° Semestre\ALGORITMOS E ESTRUTURAS DE DADOS - 8150.1.00 (Teórica)\Exercicios\Codigos\501119-MetdLista\501119-MetdLista\bin\Debug\501119-MetdLista.exe
+H:\Igor PUC Minas\3° Semestre\ALGORITMOS E ESTRUTURAS DE DADOS - 8150.1.00 (Teórica)\Exercicios\Codigos\501119-MetdLista\501119-MetdLista\bin\Debug\501119-MetdLista.pdb
+H:\Igor PUC Minas\3° Semestre\ALGORITMOS E ESTRUTURAS DE DADOS - 8150.1.00 (Teórica)\Exercicios\Codigos\501119-MetdLista\501119-MetdLista\obj\Debug\501119-MetdLista.csprojResolveAssemblyReference.cache
+D:\I.O.R.R-PUC-Minas\3-Semestre\ALGORITMOS E ESTRUTURAS DE DADOS - 8150.1.00 (Teórica)\Exercicios\Resolvidos\501119-MetdLista\501119-MetdLista\bin\Debug\501119-MetdLista.exe.config
+D:\I.O.R.R-PUC-Minas\3-Semestre\ALGORITMOS E ESTRUTURAS DE DADOS - 8150.1.00 (Teórica)\Exercicios\Resolvidos\501119-MetdLista\501119-MetdLista\obj\Debug\501119-MetdLista.exe
+D:\I.O.R.R-PUC-Minas\3-Semestre\ALGORITMOS E ESTRUTURAS DE DADOS - 8150.1.00 (Teórica)\Exercicios\Resolvidos\501119-MetdLista\501119-MetdLista\obj\Debug\501119-MetdLista.pdb
+D:\I.O.R.R-PUC-Minas\3-Semestre\ALGORITMOS E ESTRUTURAS DE DADOS - 8150.1.00 (Teórica)\Exercicios\Resolvidos\501119-MetdLista\501119-MetdLista\bin\Debug\501119-MetdLista.exe
+D:\I.O.R.R-PUC-Minas\3-Semestre\ALGORITMOS E ESTRUTURAS DE DADOS - 8150.1.00 (Teórica)\Exercicios\Resolvidos\501119-MetdLista\501119-MetdLista\bin\Debug\501119-MetdLista.pdb
+D:\I.O.R.R-PUC-Minas\3-Semestre\ALGORITMOS E ESTRUTURAS DE DADOS - 8150.1.00 (Teórica)\Exercicios\Resolvidos\501119-MetdLista\501119-MetdLista\obj\Debug\501119-MetdLista.csprojResolveAssemblyReference.cache
+C:\Users\Igor Octaviano\Documents\GitHub\aed\501119-MetdLista\501119-MetdLista\bin\Debug\501119-MetdLista.exe.config
+C:\Users\Igor Octaviano\Documents\GitHub\aed\501119-MetdLista\501119-MetdLista\obj\Debug\501119-MetdLista.exe
+C:\Users\Igor Octaviano\Documents\GitHub\aed\501119-MetdLista\501119-MetdLista\obj\Debug\501119-MetdLista.pdb
