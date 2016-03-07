@@ -10,15 +10,17 @@ namespace KnapsackProblem.ZeroOne
     {
         private int items;
         private int capacity;
-        private int[] values = { 4, 2, 10, 1, 2 };
-        private int[] weights = { 12, 1, 4, 1, 2 };
+        private int[] values;
+        private int[] weights;
         private string[] packedItems;
         private int bestValue = 0;
 
-        public BruteForceKnapsack()
+        public BruteForceKnapsack(int capacity, int[] values, int[] weights)
         {
-            this.items = 5;
-            this.capacity = 15;
+            this.values = values;
+            this.weights = weights;
+            this.items = values.Length;
+            this.capacity = capacity;
             this.packedItems = new string[this.items];
             this.bestValue = 0;
         }
@@ -61,7 +63,10 @@ namespace KnapsackProblem.ZeroOne
 
         static void Main(string[] args)
         {
-            BruteForceKnapsack bfn = new BruteForceKnapsack();
+            int[] values = { 4, 2, 10, 1, 2 };
+            int[] weights = { 12, 1, 4, 1, 2 };
+
+            BruteForceKnapsack bfn = new BruteForceKnapsack(15, values, weights);
             bfn.Solve();
 
             Console.WriteLine(bfn.bestValue);
