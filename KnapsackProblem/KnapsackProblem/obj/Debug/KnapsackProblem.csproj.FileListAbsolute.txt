@@ -1,0 +1,6 @@
+c:\users\501119\documents\visual studio 2013\Projects\KnapsackProblem\KnapsackProblem\bin\Debug\KnapsackProblem.exe.config
+c:\users\501119\documents\visual studio 2013\Projects\KnapsackProblem\KnapsackProblem\obj\Debug\KnapsackProblem.csprojResolveAssemblyReference.cache
+c:\users\501119\documents\visual studio 2013\Projects\KnapsackProblem\KnapsackProblem\bin\Debug\KnapsackProblem.exe
+c:\users\501119\documents\visual studio 2013\Projects\KnapsackProblem\KnapsackProblem\bin\Debug\KnapsackProblem.pdb
+c:\users\501119\documents\visual studio 2013\Projects\KnapsackProblem\KnapsackProblem\obj\Debug\KnapsackProblem.exe
+c:\users\501119\documents\visual studio 2013\Projects\KnapsackProblem\KnapsackProblem\obj\Debug\KnapsackProblem.pdb
