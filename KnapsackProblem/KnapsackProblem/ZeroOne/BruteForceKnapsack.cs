@@ -46,25 +46,27 @@ namespace KnapsackProblem.ZeroOne
 
             if (items == 0)
                 return;
+            else if (currentWeight + weights[items] <= capacity)
+                this.packedItems[items] = "Value:" + values[items] + "Weight:" + weights[items];
 
             // Don't pack this item.
             SolveRecursively(items - 1, currentWeight, currentValue);
 
             // Pack this item.
             SolveRecursively(items - 1, currentWeight + weights[items], currentValue + values[items]);
-            this.packedItems[items] = "Value:" + values[items] + "Weight:" + weights[items];
         }
 
         public void PrintItems()
         {
-            for (int i = 0; i < 5; i++)
-                Console.WriteLine(packedItems[i]);
+            for (int i = 0; i < this.items; i++)
+                if (this.packedItems[i] != null)
+                Console.WriteLine(this.packedItems[i]);
         }
 
         static void Main(string[] args)
         {
             int[] values = { 4, 2, 10, 1, 2 };
-            int[] weights = { 12, 1, 4, 1, 2 };
+            int[] weights = { 16, 16, 6, 1, 2 };
 
             BruteForceKnapsack bfn = new BruteForceKnapsack(15, values, weights);
             bfn.Solve();

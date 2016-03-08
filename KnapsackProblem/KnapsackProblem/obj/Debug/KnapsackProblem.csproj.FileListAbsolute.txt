@@ -10,3 +10,9 @@ C:\Users\501119\Documents\aed\KnapsackProblem\KnapsackProblem\obj\Debug\Knapsack
 C:\Users\501119\Documents\aed\KnapsackProblem\KnapsackProblem\bin\Debug\KnapsackProblem.exe
 C:\Users\501119\Documents\aed\KnapsackProblem\KnapsackProblem\bin\Debug\KnapsackProblem.pdb
 C:\Users\501119\Documents\aed\KnapsackProblem\KnapsackProblem\obj\Debug\KnapsackProblem.csprojResolveAssemblyReference.cache
+C:\Users\igoro\Documents\aed\KnapsackProblem\KnapsackProblem\bin\Debug\KnapsackProblem.exe.config
+C:\Users\igoro\Documents\aed\KnapsackProblem\KnapsackProblem\obj\Debug\KnapsackProblem.exe
+C:\Users\igoro\Documents\aed\KnapsackProblem\KnapsackProblem\obj\Debug\KnapsackProblem.pdb
+C:\Users\igoro\Documents\aed\KnapsackProblem\KnapsackProblem\bin\Debug\KnapsackProblem.exe
+C:\Users\igoro\Documents\aed\KnapsackProblem\KnapsackProblem\bin\Debug\KnapsackProblem.pdb
+C:\Users\igoro\Documents\aed\KnapsackProblem\KnapsackProblem\obj\Debug\KnapsackProblem.csprojResolveAssemblyReference.cache
