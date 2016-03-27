@@ -1,0 +1,6 @@
+C:\Users\Igor Octaviano\Desktop\RecursiveFunctions\RecursiveFunctions\bin\Debug\RecursiveFunctions.exe.config
+C:\Users\Igor Octaviano\Desktop\RecursiveFunctions\RecursiveFunctions\bin\Debug\RecursiveFunctions.exe
+C:\Users\Igor Octaviano\Desktop\RecursiveFunctions\RecursiveFunctions\bin\Debug\RecursiveFunctions.pdb
+C:\Users\Igor Octaviano\Desktop\RecursiveFunctions\RecursiveFunctions\obj\Debug\RecursiveFunctions.csprojResolveAssemblyReference.cache
+C:\Users\Igor Octaviano\Desktop\RecursiveFunctions\RecursiveFunctions\obj\Debug\RecursiveFunctions.exe
+C:\Users\Igor Octaviano\Desktop\RecursiveFunctions\RecursiveFunctions\obj\Debug\RecursiveFunctions.pdb
