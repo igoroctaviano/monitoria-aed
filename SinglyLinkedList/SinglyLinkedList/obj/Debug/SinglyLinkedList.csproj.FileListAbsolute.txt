@@ -1,0 +1,1 @@
+C:\Users\Igor Octaviano\Documents\GitHub\SinglyLinkedList\SinglyLinkedList\bin\Debug\SinglyLinkedList.exe.config
