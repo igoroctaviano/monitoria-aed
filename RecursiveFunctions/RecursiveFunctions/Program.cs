@@ -1,4 +1,13 @@
-﻿using System;
+﻿//
+// Pontifícia Universidade Católica de Minas Gerais
+// Unidade São Gabriel
+// Disciplina: Algoritmos e Estrutura de Dados
+// *Algorithms and Data Structures
+// 
+// Igor Octaviano
+// More? access: https://github.com/igoroctaviano/
+// 
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
